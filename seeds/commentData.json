@@ -1,0 +1,17 @@
+[
+    {
+        "blog_id": 1,
+        "comment_description": "Shows where planes are.",
+        "user_id": 1
+    },
+    {
+        "blog_id": 2,
+        "comment_description": "Cleaning clothes app",
+        "user_id": 2
+    },
+    {
+        "blog_id": 3,
+        "comment_description": "My problem is ....",
+        "user_id": 3
+    }
+]
